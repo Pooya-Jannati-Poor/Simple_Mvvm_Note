@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bg_ed_title_desc.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/bg_green_circle.xml" value="0.1815" />
+        <entry key="app/src/main/res/drawable/bg_green_rounded.xml" value="0.1815" />
+        <entry key="app/src/main/res/drawable/bg_white_circle.xml" value="0.1815" />
+        <entry key="app/src/main/res/drawable/cut_line_grey.xml" value="0.1815" />
+        <entry key="app/src/main/res/drawable/ic_add_note.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/ic_back.xml" value="0.1815" />
+        <entry key="app/src/main/res/drawable/ic_copy.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/ic_delete_note.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/line_stroke.xml" value="0.1815" />
+        <entry key="app/src/main/res/layout/activity_add_edit_note.xml" value="0.29333333333333333" />
+        <entry key="app/src/main/res/layout/activity_add_edite_note.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/layout_rec_note.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/main_snapp.xml" value="0.2833333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
